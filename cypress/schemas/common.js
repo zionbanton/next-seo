@@ -18,7 +18,7 @@ export const brand100 = {
       },
     },
     example: {
-      '@type': 'Thing',
+      '@type': 'Brand',
       name: 'ACME',
     },
   },
